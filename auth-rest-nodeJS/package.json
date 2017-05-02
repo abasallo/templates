@@ -1,0 +1,18 @@
+{
+  "author": "alvaro@basallo.es",
+  "name": "beer-me-up-back",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/abasallo/beer-me-up-back.git"
+  },
+  "private": true,
+  "dependencies": {
+    "bcrypt-nodejs": "",
+    "body-parser": "",
+    "express": "",
+    "jsonwebtoken": "",
+    "kerberos": "",
+    "mongoose": "",
+    "morgan": ""
+  }
+}
